@@ -10,7 +10,7 @@ Instrucciones de ejecución:
 docker-compose up --build
 ```
 
-La API estará en http://localhost:5000
+La API estará en http://localhost:5000/todos
 
 - Sin Docker (entorno virtual):
 
